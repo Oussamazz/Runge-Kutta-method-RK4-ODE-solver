@@ -24,7 +24,7 @@ This Python script demonstrates the numerical solution of an exponential decay o
 2. Run the script:
 
    ```bash
-   python exponential_decay_solver.py
+   python rk4.py
    ```
 
 3. Adjust the parameters in the script, such as the initial conditions, decay rate (`k`), and time interval, to explore different scenarios of exponential decay.
